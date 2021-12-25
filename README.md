@@ -4,7 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ijlalWindhi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijlalWindhi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ijlalWindhi&theme=tokyonight"/>
+<!--<img src="https://github-readme-streak-stats.herokuapp.com?user=ijlalWindhi&theme=tokyonight"/>-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight_duo" alt="mystreak"/>
 
 **Languages and Tools:**  
