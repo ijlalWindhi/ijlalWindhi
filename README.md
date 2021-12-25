@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- BIO -->
-Hi everyone, my name is 'Ijlal Windhi' and I'm '17' years old. I’m student of 'Telkom Malang Vocational High School' from Nganjuk, and living in Malang for a while.
+Hi everyone, my name is `Ijlal Windhi` and I'm `17` years old. I’m student of `Telkom Malang Vocational High School` from Nganjuk, and living in Malang for a while.
 
 
 
