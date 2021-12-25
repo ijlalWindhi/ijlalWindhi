@@ -1,4 +1,4 @@
-### Hi Everyone 👋
+<h1 align="center">Hi Everyone 👋</h1>
 
 
 
