@@ -11,7 +11,7 @@ Hi everyone, my name is `Ijlal Windhi`. I’m student of `Telkom Malang Vocation
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ijlalWindhi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&sideNums=BF91F3&sideLabels=BF91F3)](https://git.io/streak-stats)
 
 
-##Language
+## Language
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
