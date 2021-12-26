@@ -23,9 +23,9 @@ Hi everyone, my name is `Ijlal Windhi`. I’m student of `Telkom Malang Vocation
 
 <!-- Project -->
 ## Our Project
-<h3><a href="https://mainkan.web.app">Mainkan</a></h3>
+<h5><a href="https://mainkan.web.app" targer="_blank">Mainkan</a></h5>
 
-
+<br><br><br>
 ![profile](https://komarev.com/ghpvc/?username=ijlalWindhi&color=blue)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ijlalWindhi&color=blue)
 <!--
