@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Bio -->
-Hi everyone, my name is `Ijlal Windhi`. I’m student of `Telkom Malang Vocational High School` from Nganjuk, and living in Malang for a while.
+My name is `Ijlal Windhi Saputra`. I'm a student of `Vocational High School Telkom Malang`. Now, I'm focused on being a `Front End developer` with expertise in `React JS` which uses the display library Chakra UI. In addition, I also use CSS frameworks such as Bootstrap, Tailwind CSS, Material UI, and so on. In addition to using the CSS Framework I also use css preprocessors such as SCSS/SASS. Apart from being a Front End developer, I also work on `graphic and UI design`, where I use figma as a tool. I also learned the Back End of using Node JS with Express as well as using ORMs like sequelize. Apart from that for the database I use MySql and MongoDB
 
 <!-- Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
