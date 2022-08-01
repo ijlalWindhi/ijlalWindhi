@@ -10,6 +10,7 @@ Hi everyone, my name is `Ijlal Windhi`. I’m student of `Telkom Malang Vocation
 
 <!-- Statistic -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ijlalWindhi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijlalWindhi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ijlalWindhi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&sideNums=BF91F3&sideLabels=BF91F3)](https://git.io/streak-stats) -->
 
