@@ -3,7 +3,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Bio -->
-My name is `Ijlal Windhi Saputra`. I'm a student of `Vocational High School Telkom Malang`. Now, I'm focused on being a `Front End developer` with expertise in `React JS` which uses the display library Chakra UI. In addition, I also use CSS frameworks such as Bootstrap, Tailwind CSS, Material UI, and so on. In addition to using the CSS Framework I also use css preprocessors such as SCSS/SASS. Apart from being a Front End developer, I also work on `graphic and UI design`, where I use figma as a tool. I also learned the Back End of using Node JS with Express as well as using ORMs like sequelize. Apart from that for the database I use MySql and MongoDB
+Hi everyone! I'm `Ijlal Windhi Saputra`. I have a strong passion for technology and I love sharing my knowledge with the people
+around me.
+
+Now, I'm focused on being a `Front End developer`, with expertise in `React JS` and `Next JS` which uses the display library
+Chakra UI, Bootstrap, Tailwind CSS, Material UI, and so on. I have been able to apply my knowledge of web development
+frameworks and programming languages to create responsive and user-friendly websites. Additionally, I've gained experience
+working collaboratively with other developers, designers, and project managers to ensure timely project delivery.
+
+I am excited about the future of technology and the limitless possibilities it brings, and I’m looking forward to contributing to
+its growth and development.
 
 <!-- Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
