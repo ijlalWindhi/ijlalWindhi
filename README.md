@@ -3,16 +3,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Bio -->
-Hi everyone! I'm `Ijlal Windhi Saputra`. I have a strong passion for technology and I love sharing my knowledge with the people
-around me.
+Hi everyone! I'm `Ijlal Windhi Saputra`. I have a strong passion for technology and I love sharing my knowledge with the people around me.
 
-Now, I'm focused on being a `Front End developer`, with expertise in `React JS` and `Next JS` which uses the display library
-Chakra UI, Bootstrap, Tailwind CSS, Material UI, and so on. I have been able to apply my knowledge of web development
-frameworks and programming languages to create responsive and user-friendly websites. Additionally, I've gained experience
-working collaboratively with other developers, designers, and project managers to ensure timely project delivery.
+Now, I'm focused on being a `Full-Stack Developer`, with expertise in Next JS, Raect JS, Nuxt JS, Vue JS, and other frontend framework and Express JS, Nest JS, Django, and other backend framework. I have been able to apply my knowledge of web development frameworks and programming languages to create responsive and user-friendly websites. Additionally, I've gained experience working collaboratively with other developers, designers, and project managers to ensure timely project delivery.
 
-I am excited about the future of technology and the limitless possibilities it brings, and I’m looking forward to contributing to
-its growth and development.
+I am excited about the future of technology and the limitless possibilities it brings, and I’m looking forward to contributing to its growth and development.
 
 <!-- Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
