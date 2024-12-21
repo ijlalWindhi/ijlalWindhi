@@ -1,59 +1,83 @@
-<h1 align="center">Hi Everyone 👋</h1>
-<!-- Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">✨ Ijlal Windhi Saputra ✨</h1>
+<h3 align="center">Full-Stack Developer | Tech Enthusiast | Problem Solver</h3>
 
-<!-- Bio -->
-Hi everyone! I'm `Ijlal Windhi Saputra`. I have a strong passion for technology and I love sharing my knowledge with the people around me.
+<p align="center">
+  <a href="https://linkedin.com/in/ijlal-windhi"><img src="https://img.shields.io/badge/-Ijlal%20Windhi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:ijlalwindhisa@gmail.com"><img src="https://img.shields.io/badge/-ijlalwindhisa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ijlalWindhi&color=blue"/>
+</p>
 
-Now, I'm focused on being a `Full-Stack Developer`, with expertise in Next JS, Raect JS, Nuxt JS, Vue JS, and other frontend framework and Express JS, Nest JS, Django, and other backend framework. I have been able to apply my knowledge of web development frameworks and programming languages to create responsive and user-friendly websites. Additionally, I've gained experience working collaboratively with other developers, designers, and project managers to ensure timely project delivery.
+---
 
-I am excited about the future of technology and the limitless possibilities it brings, and I’m looking forward to contributing to its growth and development.
+### 🚀 About Me
 
-<!-- Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Passionate Full-Stack Developer with expertise in modern web technologies. I believe in creating digital solutions that make a difference. My journey in tech is driven by curiosity and the desire to build innovative solutions that solve real-world problems.
 
-<!-- Statistic -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ijlalWindhi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijlalWindhi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ijlalWindhi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&sideNums=BF91F3&sideLabels=BF91F3)](https://git.io/streak-stats) -->
+```javascript
+const ijlal = {
+    code: ["JavaScript", "TypeScript", "Rust", "Python", "PHP"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Vue", "Nuxt.js", "Angular", "Yew"],
+            css: ["Tailwind", "Bootstrap", "Material UI"],
+        },
+        backEnd: {
+            js: ["Node.js", "Express", "NestJS"],
+            python: ["Django"],
+            php: ["Laravel"],
+        },
+        mobile: {
+            js: ["React Native", "Expo"],
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        tools: ["Git", "Docker", "AWS", "Firebase"],
+    },
+    currentFocus: "Building scalable full-stack applications",
+};
+```
 
-<!-- Language -->
-## Language
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+### 🎯 Expertise
 
-<!-- Project -->
-## Our Project
-<h3><a href="https://mainkan.web.app" target="_blank">Mainkan</a></h3>
-<h3><a href="https://rampung-analytic.firebaseapp.com" target="_blank">Rampung Analytic</a></h3>
-<h3><a href="https://meticmoklet.com" target="_blank">Metic Moklet</a></h3>
-<h3><a href="https://explore-taiwan.netlify.app/" target="_blank">Explore Taiwan</a></h3>
-<h3><a href="https://pdam-tirta-complaint-frontend-service.vercel.app/" target="_blank">PDAM Tirta Sidoarjo</a></h3>
-<h3><a href="https://blog-post-auvers.vercel.app/" target="_blank">Auvers</a></h3>
-<h3><a href="https://sobiyutiful.vercel.app/" target="_blank">Sobiyutiful</a></h3>
-<h3><a href="https://asc-real-estate.vercel.app/" target="_blank">Real Estate</a></h3>
+-   Frontend Development
+-   Backend Development
+-   Database Design
+-   RESTful APIs
+-   UI/UX Implementation
+-   Cloud Services
+-   Performance Optimization
 
-## Our Certificate
-<h4><a href="https://www.hackerrank.com/certificates/a2e325043112" target="_blank"></a></h4>
+### 💼 Featured Projects
 
-<br><br><br>
-![profile](https://komarev.com/ghpvc/?username=ijlalWindhi&color=blue)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ijlalWindhi&color=blue)
-<!--
-**ijlalWindhi/ijlalWindhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td><a href="https://mainkan.web.app">🎮 Mainkan</a></td>
+    <td><a href="https://rampung-analytic.firebaseapp.com">📊 Rampung Analytic</a></td>
+    <td><a href="https://meticmoklet.com">🎓 Metic Moklet</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://explore-taiwan.netlify.app">✈️ Explore Taiwan</a></td>
+    <td><a href="https://pdam-tirta-complaint-frontend-service.vercel.app">💧 PDAM Tirta Sidoarjo</a></td>
+    <td><a href="https://asc-real-estate.vercel.app">🏠 Real Estate</a></td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ijlalWindhi&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijlalWindhi&layout=compact&theme=tokyonight"/>
+</p>
+
+### 🤝 Let's Connect!
+
+💼 Open for freelance projects and full-time opportunities  
+📧 Email: ijlalwindhisa@gmail.com  
+🌐 Portfolio: https://ijlaldhisa.my.id  
+💬 Feel free to reach out for collaborations or just a friendly chat!
+
+---
+
+<p align="center">
+  ⭐️ From 
+  <a href="https://github.com/ijlalWindhi">IjlalWindhi</a>
+</p>
